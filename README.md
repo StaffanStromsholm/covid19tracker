@@ -11,3 +11,6 @@ To run the appplication:
 ```shell
 npm install
 npm start
+```
+
+Live version: https://staffanstromsholm.github.io/covid19tracker/
