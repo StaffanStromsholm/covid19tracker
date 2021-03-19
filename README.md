@@ -14,3 +14,5 @@ npm start
 ```
 
 Live version: https://staffanstromsholm.github.io/covid19tracker/
+
+![](covid19tracker.gif)

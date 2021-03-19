@@ -5,6 +5,10 @@ body{
   text-align: center;
 }
 
+.App {
+  margin-top: 3rem;
+}
+
 input {
   text-align: center;
 }
