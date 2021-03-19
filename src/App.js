@@ -13,14 +13,6 @@ const App = () => {
   const [matches, setMatches] = useState([]);
   const [matchesBolean, setMatchesBolean] = useState(false);
 
-
-  // const fetchUserLocation = () => {
-  //   fetch('http://api.ipstack.com/check?access_key=4b848d14c30fad1fcdf5738a4bd5bc0e')
-  //     .then(response => response.json())
-  //     .then(data => setLocation(data.country))
-  //     .catch(error => console.log(error));
-  // }
-
   const fetchCoronaStatus = () => {
     fetch(url)
       .then(response => response.json())
